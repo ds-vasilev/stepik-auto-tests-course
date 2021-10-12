@@ -1,0 +1,29 @@
+1634023810969	geckodriver	INFO	Listening on 127.0.0.1:65332
+1634023814060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofileEStI5W"
+1634023840744	geckodriver	INFO	Listening on 127.0.0.1:49165
+1634023843834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofileGhFZVB"
+1634023844298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\AppData\\Local\\Temp\\rust_mozprofileGhFZVB\\search.json.mozlz4", (void 0)))
+1634023846838	Marionette	INFO	Listening on port 49175
+1634023847024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1633967556, line 6074: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634023858891	Marionette	INFO	Stopped listening on port 49175
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634027310926	geckodriver	INFO	Listening on 127.0.0.1:63502
+1634027314013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\7272~1\\AppData\\Local\\Temp\\rust_mozprofile2eaIUh"
+1634027314442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\AppData\\Local\\Temp\\rust_mozprofile2eaIUh\\search.json.mozlz4", (void 0)))
+1634027316732	Marionette	INFO	Listening on port 63513
+1634027317212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1634027318424	Marionette	INFO	Stopped listening on port 63513
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 20844, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
